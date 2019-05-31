@@ -19,7 +19,8 @@ There are no known bugs but feel free to fork and improve the system once you se
 *Javascript
 ## Support and contact details
 ###BDD
-
+The application takes data fed into the input boxes the checks and provides the answer whether the conditions have
+been met to form a triangle,which type of triangle or if its not a triangle at all.
 ###Contact
 Contact me through:email denisnyamweya813@gmail.com
 ### License
