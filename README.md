@@ -19,6 +19,12 @@ Bootstrap
 Javascript
 ## Support and contact details
 ###BDD
+This application takes data fed into the website then checks if the conditions are met.If the conditions meet it
+checks whether if it is a triangle,and if it is it shows a popup to display the type of triangle.If not it shows a popup
+confirming it is not a triangle.
+##Contact
+You can communicate to me via email.My email is denisnyamweya813@gmail.com
+#
 The application
 Copyright (c) 2019 **Dennis Makori Nyamweya**
 MIT License
