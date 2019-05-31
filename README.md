@@ -8,7 +8,7 @@ This applications takes input data in form of the length of sides of a triangle,
 it is indeed a triangle.After the data is fed into the website, a pop-up appears showing whether it is an equilateral
 triangle or scalene or isosceles or not a triangle at all.
 ## Setup/Installation Requirements
-* git clone
+* git clone https://github.com/dennisnyamweya/triangle-tracker.git
 * cd triangle-tracker
 * open index.html using a browser
 ## Known Bugs
