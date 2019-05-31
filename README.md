@@ -14,11 +14,11 @@ triangle or scalene or isosceles or not a triangle at all.
 ## Known Bugs
 There are no known bugs but feel free to fork and improve the system once you see a bug or contact me.
 ## Technologies Used
-HTML/CSS
-Bootstrap
+HTML/CSS,
+Bootstrap,
 Javascript
 ## Support and contact details
-###BDD
+##BDD
 This application takes data fed into the website then checks if the conditions are met.If the conditions meet it
 checks whether if it is a triangle,and if it is it shows a popup to display the type of triangle.If not it shows a popup
 confirming it is not a triangle.
