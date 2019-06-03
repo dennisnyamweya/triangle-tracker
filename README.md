@@ -14,20 +14,39 @@ triangle or scalene or isosceles or not a triangle at all.
 ## Known Bugs
 There are no known bugs but feel free to fork and improve the system once you see a bug or contact me.
 ## Technologies Used
-HTML/CSS,
-Bootstrap,
-Javascript
+
+ * HTML/CSS
+ * Bootstrap
+ * Javascript
 ## Support and contact details
 ##BDD
 This application takes data fed into the website then checks if the conditions are met.If the conditions meet it
 checks whether if it is a triangle,and if it is it shows a popup to display the type of triangle.If not it shows a popup
 confirming it is not a triangle.
+ |-----------------------------|------------|-----------|-----------|-----------------------|
+ | Behaviour                   | Input      | Input     | Input     | Output                |
+ |Our program should handle:   | hypotenuse | adjascent |  opposite |                       |
+ |-----------------------------|------------|-----------|-----------|---------------------- |
+ |  all sides must be equal.   |      4     |    4      |     4     |Equilateral triangle   |
+ |-----------------------------|------------|-----------|-----------|-----------------------|
+ | two sides are exactly equal |      4     |    5      |     3     |Isosceles triangle     |
+ |-----------------------------|------------|-----------|-----------|-----------------------|
+ | none of the sides is equal  |            |           |           |                       |
+ |  & sum of any two sides is  |      5     |      4    |     3     |Scalene triangle       |
+ |greater than the third side  |            |           |           |                       |
+ |-----------------------------|------------|-----------|-----------|-----------------------|
+ |sum of any two sides of the  |            |           |           |                       |
+ |triangle is not equal to or  |      9     |      4    |     3     |Not a triangle         |
+ |less than the third remaining|            |           |           |                       |
+ |side                         |            |           |           |                       |
+ |-----------------------------|------------|-----------|-----------|-----------------------|
+
 ##Contact
 You can communicate to me via email.My email is denisnyamweya813@gmail.com
 #License
 Copyright (c) 2019 **Dennis Makori Nyamweya**
 MIT License
-Copyright (c) [2019] [Dennis Makori Nyamweya]
+Copyright (c) [2019] [-Dennis Makori Nyamweya-]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
