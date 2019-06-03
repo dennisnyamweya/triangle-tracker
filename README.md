@@ -20,40 +20,19 @@ There are no known bugs but feel free to fork and improve the system once you se
  * Javascript
 
 
-## BDD
+ ## BDD
 This application takes data fed into the website then checks if the conditions are met.If the conditions meet it
 checks whether if it is a triangle,and if it is it shows a popup to display the type of triangle.If not it shows a popup
 confirming it is not a triangle.
 
-| Behaviour                   | Input      | Input     | Input     | Output                |
 
-|-----------------------------|------------|-----------|-----------|---------------------- |
+|   Behaviour  | Hypotenuse     | Adjascent     | Opposite| Output                    |
+| :---         |     :---:      |          ---: | :---    |     :---:                 |         
+| hy=adj=opp   |     3          |         3     |    3    |  Equilateral triangle     |
+| hy=adj       |     5          |         3     |    3    |  Isosceles triangle       |
+| hy!=adj!=opp |     5          |         4     |     3   |   Scalene trian  gle      |
+| (hy+opp)>adj |     9          |         4     |     3   |   Not a triangle          |
 
- |Our program should handle:   | hypotenuse | adjascent |  opposite |                       |
- 
-
- |  all sides must be equal.   |      4     |    4      |     4     |Equilateral triangle   |
- 
-
- 
- | two sides are exactly equal |      4     |    5      |     3     |Isosceles triangle     |
-
- 
-
- | none of the sides is equal  |            |           |           |                       |
-
- |  & sum of any two sides is  |      5     |      4    |     3     |Scalene triangle       |
-
- |greater than the third side  |            |           |           |                       |
-
- 
- |sum of any two sides of the  |            |           |           |                       |
-
- |triangle is not equal to or  |      9     |      4    |     3     |Not a triangle         |
-
- |less than the third remaining|            |           |           |                       |
-
- |side                         |            |           |           |                       |
 
 
 ## Contact
