@@ -30,7 +30,7 @@ confirming it is not a triangle.
 | :---         |     :---:      |          ---: | :---    |     :---:                 |         
 | hy=adj=opp   |     3          |         3     |    3    |  Equilateral triangle     |
 | hy=adj       |     5          |         3     |    3    |  Isosceles triangle       |
-| hy!=adj!=opp |     5          |         4     |     3   |   Scalene trian  gle      |
+| hy!=adj!=opp |     5          |         4     |     3   |   Scalene triangle        |
 | (hy+opp)>adj |     9          |         4     |     3   |   Not a triangle          |
 
 
